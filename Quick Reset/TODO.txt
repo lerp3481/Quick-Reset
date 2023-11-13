@@ -1,0 +1,14 @@
+﻿TODO list (no particular order):
+
+(Things regarding this program should be tagged with [P], and things regarding the website should be tagged with [W])
+
+- [W] Just make the website catch up with the program, you know? I want to be able to access the drill on my phone too
+
+- [P] Great, we can play the drill. Can we stop it though?
+- [P] Start animation at any set
+- [P] Adjust performer label text size (and perhaps other settings like color and boldness as well)
+- [P] Edit field excess stuff in the FieldSettingsPanel
+- [P] Perhaps play the show music along with the drill?
+- [P] Fix the dot books to draw dots that go beyond the field bounds
+- [P] Add the count slider, and the count input (so you can view the picture at a specific count)
+- [P] Reposition the performer labels to make them easier to read (Pyware does it above or below the dot (below by default))
